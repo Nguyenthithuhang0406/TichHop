@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="TienDien2.xslt" ?>
+<tiendien>
+	<hoten>Nguyen Van A</hoten>
+	<chisodau>120</chisodau>
+	<chisocuoi>370</chisocuoi>
+</tiendien>
