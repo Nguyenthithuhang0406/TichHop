@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contact xmlns="http://tempuri.org/VD2.xsd" id="C01">
+	<name>
+		<firstname>Tran Van</firstname>
+		<lastname>Hung</lastname>
+	</name>
+	<tel>0389353783</tel>
+	<address>39 ngo 134</address>
+	<email>hangnguyenthithu32@gmail.com</email>
+	<age>21</age>
+	<gender>male</gender>
+</contact>

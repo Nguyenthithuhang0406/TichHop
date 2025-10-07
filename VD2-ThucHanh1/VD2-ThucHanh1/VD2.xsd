@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="VD2"
+    targetNamespace="http://tempuri.org/VD2.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/VD2.xsd"
+    xmlns:mstns="http://tempuri.org/VD2.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="contact">
+		<xs:complexType>
+			<xs:sequence>
+				
+							<!-- Name with firstname + lastname -->
+							<xs:element name="name">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="firstname" type="xs:string"/>
+										<xs:element name="lastname" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+
+							<!-- Phone: exactly 10 digits -->
+							<xs:element name="tel">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:pattern value="\d{10}"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+
+							<!-- Address -->
+							<xs:element name="address" type="xs:string"/>
+
+							<!-- Email -->
+							<xs:element name="email" type="xs:string"/>
+
+							<!-- Age: 1–150 -->
+							<xs:element name="age">
+								<xs:simpleType>
+									<xs:restriction base="xs:integer">
+										<xs:minInclusive value="1"/>
+										<xs:maxInclusive value="150"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+
+							<!-- Gender: male | female -->
+							<xs:element name="gender">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="male"/>
+										<xs:enumeration value="female"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+
+						</xs:sequence>
+
+						<!-- contact has attribute id -->
+						<xs:attribute name="id" type="xs:ID" use="required"/>
+					</xs:complexType>
+				</xs:element>
+</xs:schema>

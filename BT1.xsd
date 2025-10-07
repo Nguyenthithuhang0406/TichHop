@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="congty">
+		<xs:complexType>
+			<xs:sequence>
+				<!--Moi cty co toi da 10 don vi-->
+				<xs:element name="donvi" maxOccurs="10">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="tendv" type="xs:string"/>
+							
+								<!--Dien thoai: 10 chu so-->
+							<xs:element name="dienthoai">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:pattern value="\d{10}"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							
+							<!--Danh sach nhan vien-->
+							<xs:element name="nhanvien" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<!--Ma nhan vien, mã length = 4-->
+										<xs:element name="manv">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:maxLength value="4"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+
+										<xs:element name="hoten" type="xs:string"/>
+										<xs:element name="ngaysinh" type="xs:date"/>
+										
+										<!--Gioi tinh: nam/nu-->
+										<xs:element name="gioitinh">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="nam"/>
+													<xs:enumeration value="nu"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										
+										<!--He so luonh: tu 2.34 den 8.8-->
+										<xs:element name="hsluong">
+											<xs:simpleType>
+												<xs:restriction base="xs:decimal">
+													<xs:minInclusive value="2.34"/>
+													<xs:maxInclusive value="8.8"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						
+						<!--don vi co thuoc tinh madv-->
+						<xs:attribute name="madv" use="required">
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:maxLength value="4"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+					</xs:complexType>
+
+					<!--rang buoc manv duy nhat trong don vi-->
+					<xs:unique name="unique_manv">
+						<xs:selector xpath="nhanvien"/>
+						<xs:field xpath="manv"/>
+					</xs:unique>
+					
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+		
+		<!--Rang buoc madv la duy nhat trong cty-->
+		<xs:unique name="unique_madv">
+			<xs:selector xpath="donvi"/>
+			<xs:field xpath="@madv"/>
+		</xs:unique>
+		
+		</xs:element>
+</xs:schema>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DS xmlns="http://tempuri.org/XMLSchema.xsd">
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2025-11-09</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Dien tu">
+			<Hang MaHang="H1">
+				<TenHang>Ti vi</TenHang>
+				<SoLuong>10</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Tủ lạnh</TenHang>
+				<SoLuong>5</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>8000000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Loa</TenHang>
+				<SoLuong>15</SoLuong>
+				<DonViTinh>hộp</DonViTinh>
+				<DonGia>1500000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="B" TenLoai="Gia dung">
+			<Hang MaHang="H4">
+				<TenHang>Nồi cơm điện</TenHang>
+				<SoLuong>20</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>1200000</DonGia>
+			</Hang>
+			<Hang MaHang="H5">
+				<TenHang>Bình siêu tốc</TenHang>
+				<SoLuong>30</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>500000</DonGia>
+			</Hang>
+			<Hang MaHang="H6">
+				<TenHang>Bếp gas</TenHang>
+				<SoLuong>7</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>2500000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+
+	<HoaDon>
+		<MaHD>HD2</MaHD>
+		<NgayBan>2025-11-10</NgayBan>
+		<LoaiHang MaLoai="C" TenLoai="Thuc pham">
+			<Hang MaHang="H7">
+				<TenHang>Mì gói</TenHang>
+				<SoLuong>100</SoLuong>
+				<DonViTinh>gói</DonViTinh>
+				<DonGia>3000</DonGia>
+			</Hang>
+			<Hang MaHang="H8">
+				<TenHang>Bánh quy</TenHang>
+				<SoLuong>50</SoLuong>
+				<DonViTinh>hộp</DonViTinh>
+				<DonGia>45000</DonGia>
+			</Hang>
+			<Hang MaHang="H9">
+				<TenHang>Sữa hộp</TenHang>
+				<SoLuong>40</SoLuong>
+				<DonViTinh>hộp</DonViTinh>
+				<DonGia>25000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="D" TenLoai="Do dung hoc tap">
+			<Hang MaHang="H10">
+				<TenHang>Bút bi</TenHang>
+				<SoLuong>200</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>5000</DonGia>
+			</Hang>
+			<Hang MaHang="H11">
+				<TenHang>Vở học sinh</TenHang>
+				<SoLuong>120</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>12000</DonGia>
+			</Hang>
+			<Hang MaHang="H12">
+				<TenHang>Tẩy</TenHang>
+				<SoLuong>80</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>
