@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+
+				<xs:element name="congty" maxOccurs="unbounded" >
+					<xs:complexType>
+						
+						<xs:sequence>
+							<xs:element name="donvi" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+
+										<xs:element name="madv" type="xs:string"/>
+										<xs:element name="tendv" type="xs:string"/>
+										<xs:element name="dienthoai" >
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:pattern value="\d{10}"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+
+										<xs:element name="nhanvien" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="manv" type="xs:string"/>
+													<xs:element name="hoten" type="xs:string"/>
+													<xs:element name="ngaysinh" type="xs:string"/>
+													<xs:element name="gioitinh">
+														<xs:simpleType>
+															<xs:restriction base="xs:string">
+																<xs:enumeration value="Nam"/>
+																<xs:enumeration value="Nu"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name="ngaycong" type="xs:integer"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+
+						<xs:attribute name="TenCT" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Danhsach.xslt" ?>
+<DS >
+	<congty TenCT="Cong ty duoc nam ha">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>phong to chuc</tendv>
+			<dienthoai>0389353783</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Le thu lan</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+
+			<nhanvien>
+				<manv>tc03</manv>
+				<hoten>Le thu Ha</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>27</ngaycong>
+			</nhanvien>
+		</donvi>
+
+		<donvi>
+			<madv>A02</madv>
+			<tendv>phong to chuc</tendv>
+			<dienthoai>0389353783</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Le thu lan</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>21</ngaycong>
+			</nhanvien>
+
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Le thu Ha</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>19</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+
+	<congty TenCT="Cong ty duoc nam ha">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>phong to chuc</tendv>
+			<dienthoai>0389353783</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Le thu lan</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>20</ngaycong>
+			</nhanvien>
+
+			<nhanvien>
+				<manv>tc03</manv>
+				<hoten>Le thu Ha</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>25</ngaycong>
+			</nhanvien>
+		</donvi>
+
+		<donvi>
+			<madv>A02</madv>
+			<tendv>phong to chuc</tendv>
+			<dienthoai>0389353783</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Le thu lan</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>29</ngaycong>
+			</nhanvien>
+
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Le thu Ha</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>Nu</gioitinh>
+				<ngaycong>22</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+</DS>
