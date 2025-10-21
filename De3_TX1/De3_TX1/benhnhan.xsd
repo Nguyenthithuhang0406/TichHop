@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+
+				<xs:element name="khoa" maxOccurs="10">
+					<xs:complexType>
+						<xs:sequence>
+
+							<xs:element name="tenkhoa">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Khoa than kinh"/>
+										<xs:enumeration value="Khoa noi"/>
+										<xs:enumeration value="Khoa ngoai"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+
+							<xs:element name="benhnhan" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+
+										<xs:element name="hoten" type="xs:string"/>
+										<xs:element name="ngaysinh" type="xs:string"/>
+									</xs:sequence>
+
+									<xs:attribute name="maso" type="xs:string"/>
+									
+									<xs:attribute name="songay">
+										<xs:simpleType>
+											<xs:restriction base="xs:integer">
+												<xs:maxExclusive value="40"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+
+						<xs:attribute name="makhoa">
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:maxLength value="6"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+						
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+
+			<xs:attribute name="tenbv" type="xs:string"/>
+		</xs:complexType>
+
+		<xs:unique name="Uniquemakhoa">
+			<xs:selector xpath="khoa"/>
+				<xs:field xpath="@makhoa"/>
+		</xs:unique>
+		
+	</xs:element>
+</xs:schema>

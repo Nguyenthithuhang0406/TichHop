@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="benhnhan2.xslt"?>
+<DS tenbv="Benh vien bach mai">
+	<khoa makhoa="A01">
+		<tenkhoa>Khoa than kinh</tenkhoa>
+		<benhnhan maso="bn001" songay="20">
+			<hoten>Le thu lan</hoten>
+			<ngaysinh>1988-12-21</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn002" songay="25">
+			<hoten>Le thu Ha</hoten>
+			<ngaysinh>1988-12-21</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn003" songay="17">
+			<hoten>Le Ha lan</hoten>
+			<ngaysinh>1988-12-21</ngaysinh>
+		</benhnhan>
+	</khoa>
+	<khoa makhoa="A02">
+		<tenkhoa>Khoa noi</tenkhoa>
+		<benhnhan maso="bn004" songay="23">
+			<hoten>Le thu lan</hoten>
+			<ngaysinh>1988-12-21</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn005" songay="29">
+			<hoten>Le thu Ha</hoten>
+			<ngaysinh>1988-12-21</ngaysinh>
+		</benhnhan>
+		<benhnhan maso="bn006" songay="19">
+			<hoten>Le Ha lan</hoten>
+			<ngaysinh>1988-12-21</ngaysinh>
+		</benhnhan>
+	</khoa>
+</DS>
