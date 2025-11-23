@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\bin\Debug\TX2.exe.config
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\bin\Debug\TX2.exe
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\bin\Debug\TX2.pdb
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.Form1.resources
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.Properties.Resources.resources
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.exe
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.pdb
+C:\Users\Admin\Desktop\TichHop\DOM\Bai2_OTTX2\TX2\TX2\obj\Debug\TX2.exe.config

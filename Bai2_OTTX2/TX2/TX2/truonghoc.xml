@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<truonghoc>
+  <lophoc>
+    <malop>lop1</malop>
+    <phonghoc>105-A9</phonghoc>
+    <sinhvien masv="s1">
+      <hoten>Trần Văn Tuấn</hoten>
+      <diachi>Thái Bình</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>lop2</malop>
+    <phonghoc>107-A9</phonghoc>
+  </lophoc>
+  <lophoc>
+    <malop>lop3</malop>
+    <phonghoc>304-A9</phonghoc>
+  </lophoc>
+  <lophoc>
+    <malop>lop4</malop>
+    <phonghoc>107-A9</phonghoc>
+  </lophoc>
+</truonghoc>

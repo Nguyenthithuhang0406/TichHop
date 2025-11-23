@@ -8,4 +8,8 @@
     <hoten>Nguyễn Thị Thu Hằng</hoten>
     <diachi>abc</diachi>
   </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Lương Minh Anh</hoten>
+    <diachi>số 39....</diachi>
+  </nhanvien>
 </ds>
