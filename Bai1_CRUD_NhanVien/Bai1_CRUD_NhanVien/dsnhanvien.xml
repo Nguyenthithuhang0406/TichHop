@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Trần Văn Hùng</hoten>
+    <diachi>27 Hàng Bài, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="2022601432">
+    <hoten>Nguyễn Thị Thu Hằng</hoten>
+    <diachi>abc</diachi>
+  </nhanvien>
+</ds>

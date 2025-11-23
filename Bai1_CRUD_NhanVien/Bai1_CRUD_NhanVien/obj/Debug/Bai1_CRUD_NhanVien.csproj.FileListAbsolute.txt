@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\bin\Debug\Bai1_CRUD_NhanVien.exe.config
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\bin\Debug\Bai1_CRUD_NhanVien.exe
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\bin\Debug\Bai1_CRUD_NhanVien.pdb
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.formNhap.resources
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.Properties.Resources.resources
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.exe
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.pdb
+C:\Users\Admin\Desktop\TichHop\DOM\Bai1_CRUD_NhanVien\Bai1_CRUD_NhanVien\obj\Debug\Bai1_CRUD_NhanVien.exe.config
