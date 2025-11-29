@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai2_OTTX2\\TX2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4429AB63-2E88-4C1A-8C63-D021932A18B2}|TX2\\TX2.csproj|c:\\users\\admin\\desktop\\tichhop\\dom\\bai2_ottx2\\tx2\\tx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4429AB63-2E88-4C1A-8C63-D021932A18B2}|TX2\\TX2.csproj|solutionrelative:tx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai2_OTTX2\\TX2\\TX2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TX2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4429AB63-2E88-4C1A-8C63-D021932A18B2}|TX2\\TX2.csproj|c:\\users\\admin\\desktop\\tichhop\\dom\\bai2_ottx2\\tx2\\tx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4429AB63-2E88-4C1A-8C63-D021932A18B2}|TX2\\TX2.csproj|solutionrelative:tx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai2_OTTX2\\TX2\\tx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4429AB63-2E88-4C1A-8C63-D021932A18B2}|TX2\\TX2.csproj|c:\\users\\admin\\desktop\\tichhop\\dom\\bai2_ottx2\\tx2\\tx2\\truonghoc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4429AB63-2E88-4C1A-8C63-D021932A18B2}|TX2\\TX2.csproj|solutionrelative:tx2\\truonghoc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai2_OTTX2\\TX2\\TX2\\truonghoc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TX2\\truonghoc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,7 @@
               "RelativeToolTip": "TX2\\truonghoc.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-11-23T08:11:41.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T08:11:41.51Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "TX2\\Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai2_OTTX2\\TX2\\TX2\\Form1.cs",
               "RelativeToolTip": "TX2\\Form1.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAowKkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowKkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T08:08:10.27Z",
               "EditorCaption": ""

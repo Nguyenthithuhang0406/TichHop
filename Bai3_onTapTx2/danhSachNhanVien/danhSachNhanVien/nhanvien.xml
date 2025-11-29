@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv1">
+    <hoten>
+      <ho>Đặng Thu</ho>
+      <ten>Trang</ten>
+    </hoten>
+    <diachi>Cầu diễn</diachi>
+  </nhanvien>
+  <nhanvien manv="nv3">
+    <hoten>
+      <ho>Hoàng Thu</ho>
+      <ten>Trang</ten>
+    </hoten>
+    <diachi>Cầu diễn</diachi>
+  </nhanvien>
+  <nhanvien manv="nv4">
+    <hoten>
+      <ho>Lương Thị</ho>
+      <ten>Phượng</ten>
+    </hoten>
+    <diachi>Nhổn</diachi>
+  </nhanvien>
+</ds>

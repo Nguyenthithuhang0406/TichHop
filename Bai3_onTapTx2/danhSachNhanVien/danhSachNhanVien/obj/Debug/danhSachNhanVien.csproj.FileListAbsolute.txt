@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\bin\Debug\danhSachNhanVien.exe.config
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\bin\Debug\danhSachNhanVien.exe
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\bin\Debug\danhSachNhanVien.pdb
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.Form1.resources
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.Properties.Resources.resources
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.exe
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.pdb
+C:\Users\Admin\Desktop\TichHop\DOM\Bai3_onTapTx2\danhSachNhanVien\danhSachNhanVien\obj\Debug\danhSachNhanVien.exe.config

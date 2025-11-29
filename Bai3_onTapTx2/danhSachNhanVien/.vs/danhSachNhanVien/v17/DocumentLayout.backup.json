@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai3_onTapTx2\\danhSachNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9692DBBF-7A51-4D15-9C8A-DBD9B2C1B6A2}|danhSachNhanVien\\danhSachNhanVien.csproj|c:\\users\\admin\\desktop\\tichhop\\dom\\bai3_ontaptx2\\danhsachnhanvien\\danhsachnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9692DBBF-7A51-4D15-9C8A-DBD9B2C1B6A2}|danhSachNhanVien\\danhSachNhanVien.csproj|solutionrelative:danhsachnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692DBBF-7A51-4D15-9C8A-DBD9B2C1B6A2}|danhSachNhanVien\\danhSachNhanVien.csproj|c:\\users\\admin\\desktop\\tichhop\\dom\\bai3_ontaptx2\\danhsachnhanvien\\danhsachnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9692DBBF-7A51-4D15-9C8A-DBD9B2C1B6A2}|danhSachNhanVien\\danhSachNhanVien.csproj|solutionrelative:danhsachnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9692DBBF-7A51-4D15-9C8A-DBD9B2C1B6A2}|danhSachNhanVien\\danhSachNhanVien.csproj|c:\\users\\admin\\desktop\\tichhop\\dom\\bai3_ontaptx2\\danhsachnhanvien\\danhsachnhanvien\\nhanvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9692DBBF-7A51-4D15-9C8A-DBD9B2C1B6A2}|danhSachNhanVien\\danhSachNhanVien.csproj|solutionrelative:danhsachnhanvien\\nhanvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nhanvien.xml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai3_onTapTx2\\danhSachNhanVien\\danhSachNhanVien\\nhanvien.xml",
+              "RelativeDocumentMoniker": "danhSachNhanVien\\nhanvien.xml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai3_onTapTx2\\danhSachNhanVien\\danhSachNhanVien\\nhanvien.xml",
+              "RelativeToolTip": "danhSachNhanVien\\nhanvien.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-29T07:50:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai3_onTapTx2\\danhSachNhanVien\\danhSachNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "danhSachNhanVien\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai3_onTapTx2\\danhSachNhanVien\\danhSachNhanVien\\Form1.cs",
+              "RelativeToolTip": "danhSachNhanVien\\Form1.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAowNkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:46:07.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai3_onTapTx2\\danhSachNhanVien\\danhSachNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "danhSachNhanVien\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\DOM\\Bai3_onTapTx2\\danhSachNhanVien\\danhSachNhanVien\\Form1.cs [Design]",
+              "RelativeToolTip": "danhSachNhanVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:41:07.295Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
