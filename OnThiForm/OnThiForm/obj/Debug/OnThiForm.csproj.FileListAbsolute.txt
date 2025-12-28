@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\bin\Debug\OnThiForm.exe.config
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\bin\Debug\OnThiForm.exe
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\bin\Debug\OnThiForm.pdb
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.Form1.resources
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.exe
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.pdb
+C:\Users\Admin\Desktop\TichHop\API\OnThiForm\OnThiForm\obj\Debug\OnThiForm.exe.config

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|c:\\users\\admin\\desktop\\tichhop\\api\\onthiform\\onthiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|solutionrelative:onthiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|c:\\users\\admin\\desktop\\tichhop\\api\\onthiform\\onthiform\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|solutionrelative:onthiform\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|c:\\users\\admin\\desktop\\tichhop\\api\\onthiform\\onthiform\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|solutionrelative:onthiform\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|c:\\users\\admin\\desktop\\tichhop\\api\\onthiform\\onthiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{792796E6-3A26-4020-83B4-0118169709D9}|OnThiForm\\OnThiForm.csproj|solutionrelative:onthiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\Form1.cs",
+              "RelativeDocumentMoniker": "OnThiForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\Form1.cs*",
+              "RelativeToolTip": "OnThiForm\\Form1.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAvwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:52:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "OnThiForm\\DanhMuc.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\DanhMuc.cs",
+              "RelativeToolTip": "OnThiForm\\DanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:51:43.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\SanPham.cs",
+              "RelativeDocumentMoniker": "OnThiForm\\SanPham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\SanPham.cs",
+              "RelativeToolTip": "OnThiForm\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:48:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\Form1.cs",
+              "RelativeDocumentMoniker": "OnThiForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TichHop\\API\\OnThiForm\\OnThiForm\\Form1.cs [Design]*",
+              "RelativeToolTip": "OnThiForm\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:07:24.866Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

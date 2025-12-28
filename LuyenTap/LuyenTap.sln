@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuyenTap", "LuyenTap\LuyenTap.csproj", "{A2BA04C0-D759-4AEF-A28A-B27816D66213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BA04C0-D759-4AEF-A28A-B27816D66213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BA04C0-D759-4AEF-A28A-B27816D66213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BA04C0-D759-4AEF-A28A-B27816D66213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BA04C0-D759-4AEF-A28A-B27816D66213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51EFC24C-D5A5-4D13-A27D-C032A528FDF3}
+	EndGlobalSection
+EndGlobal

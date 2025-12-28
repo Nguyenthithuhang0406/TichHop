@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\bin\Debug\LuyenTapForm.exe.config
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\bin\Debug\LuyenTapForm.exe
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\bin\Debug\LuyenTapForm.pdb
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.Form1.resources
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.exe
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.pdb
+C:\Users\Admin\Desktop\TichHop\API\LuyenTapForm\LuyenTapForm\obj\Debug\LuyenTapForm.exe.config
